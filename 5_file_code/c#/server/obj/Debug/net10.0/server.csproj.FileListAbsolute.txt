@@ -1,0 +1,15 @@
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\bin\Debug\net10.0\server.exe
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\bin\Debug\net10.0\server.deps.json
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\bin\Debug\net10.0\server.dll
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\bin\Debug\net10.0\server.pdb
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.dll
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.pdb
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\vnsta\Desktop\2251120115-NguyenQuangThinh-Elearning1\5_file_code\c#\server\obj\Debug\net10.0\ref\server.dll
